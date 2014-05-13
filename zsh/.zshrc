@@ -46,7 +46,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 source ~/.nvm/nvm.sh
-export PATH=/usr/local/bin:$PATH
+export PATH=/usr/local/bin:/usr/local/sbin:/usr/local/share/python:$PATH
 export PYTHONPATH=/usr/local/lib/python2.7/site-packages/:$PYTHONPATH
 # pip should only run if there is a virtualenv currently activated
 export PIP_REQUIRE_VIRTUALENV=false

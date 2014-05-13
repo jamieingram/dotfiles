@@ -1,0 +1,16 @@
+# Files
+*.DS_Store
+*.pyc
+*.vagrant
+*.coverage
+*.psd
+*.sublime-project
+*.sublime-workspace
+
+# Dirs
+logs/
+media/
+node_modules/
+*.pyc
+.vagrant/
+logs/
