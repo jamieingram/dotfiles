@@ -56,3 +56,4 @@ export WORKON_HOME=$HOME/.virtualenvs
 source /usr/local/bin/virtualenvwrapper.sh
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
+source ~/.salt-poke/tools/update_check.sh
