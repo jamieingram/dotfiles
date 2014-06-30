@@ -57,3 +57,6 @@ source /usr/local/bin/virtualenvwrapper.sh
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 source ~/.salt-poke/tools/update_check.sh
+
+source $(brew --prefix nvm)/nvm.sh
+export NVM_DIR=~/.nvm

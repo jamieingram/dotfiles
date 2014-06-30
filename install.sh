@@ -4,3 +4,5 @@
 git config --global core.excludesfile ~/.gitignore_global
 
 #create cronjob for online status check
+
+#run osx settings file
